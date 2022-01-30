@@ -1,11 +1,21 @@
-hangman.Hangman game which provide three differents ways to load words :  
-- by file (must be a .txt)
-- by user's own words
-- by database
+# Chinese Checkers
 
-Implemented at the moment :
-- the game itself
-- File Loader
-- User's own words loader
+A Hangman game made as a personal project
 
-Database loader will coming soon !
+# Features
+
+- See [Hangman](https://en.wikipedia.org/wiki/Hangman_(game)) rules
+
+# Installation
+
+## Requirements
+
+- Maven
+- A Java IDE (IntelliJ, Eclipse...)
+- Java, [Oracle](https://www.java.com/en/) or OpenJDK
+- [MySQL](https://www.mysql.com/fr/downloads/)
+
+## Steps to install
+
+- Pull / download the repository
+- Setup the project with your favorite IDE
